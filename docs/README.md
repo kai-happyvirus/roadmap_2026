@@ -54,7 +54,7 @@ day: 2
 1. Commit changes to `docs/` folder
 2. Push to GitHub
 3. Site automatically builds and deploys via GitHub Pages
-4. Live at: https://happyvirus.github.io/roadmap_2026
+4. Live at: https://kai-happyvirus.github.io/roadmap_2026
 
 ## Theme
 

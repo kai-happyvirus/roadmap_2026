@@ -41,7 +41,7 @@ Check out my [blog](/roadmap_2026/blog) for daily learning logs, insights, and c
 
 - [Progress Tracker](/roadmap_2026/progress) - Visual overview of completed days
 - [About This Project](/roadmap_2026/about) - Learn more about the journey
-- [GitHub Repository](https://github.com/Happyvirus/roadmap_2026) - View the code and tasks
+- [GitHub Repository](https://github.com/kai-happyvirus/roadmap_2026) - View the code and tasks
 
 ---
 

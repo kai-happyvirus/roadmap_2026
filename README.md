@@ -85,7 +85,7 @@ Each day includes:
 
 ## 🌐 GitHub Pages Blog
 
-**Live Site**: [https://happyvirus.github.io/roadmap_2026](https://happyvirus.github.io/roadmap_2026)
+**Live Site**: [https://kai-happyvirus.github.io/roadmap_2026](https://kai-happyvirus.github.io/roadmap_2026)
 
 A blog-style website documenting the learning journey with:
 - **Daily learning logs** - Reflections, insights, and "aha!" moments
@@ -98,7 +98,7 @@ A blog-style website documenting the learning journey with:
 1. Push the `docs/` folder to GitHub
 2. Go to **Repository Settings** → **Pages**
 3. Set **Source** to `main` branch, `/docs` folder
-4. Site will be live at `https://happyvirus.github.io/roadmap_2026`
+4. Site will be live at `https://kai-happyvirus.github.io/roadmap_2026`
 
 The site uses Jekyll (GitHub Pages default) with the Minima theme for simplicity and speed.
 

@@ -4,7 +4,7 @@ description: "180-day intensive learning track documenting daily progress in Mac
 author: "Kaicho"
 email: ""
 baseurl: "/roadmap_2026"
-url: "https://happyvirus.github.io"
+url: "https://kai-happyvirus.github.io"
 
 # Theme
 theme: minima
@@ -44,4 +44,4 @@ exclude:
   - vendor
 
 # Social links (optional)
-github_username: Happyvirus
+github_username: kai-happyvirus

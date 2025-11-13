@@ -71,7 +71,7 @@ Sharing this journey publicly because:
 
 ## 📬 Get in Touch
 
-Follow along on [GitHub](https://github.com/Happyvirus/roadmap_2026) and feel free to:
+Follow along on [GitHub](https://github.com/kai-happyvirus/roadmap_2026) and feel free to:
 - Star the repo if you find it helpful
 - Open issues for questions or suggestions
 - Share your own learning journey
