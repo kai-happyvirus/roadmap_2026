@@ -42,48 +42,59 @@ permalink: /progress/
 | 6 | Nov 18 | Calculus Review: Derivatives | ⏳ |
 | 7 | Nov 19 | Week 1 Review & Mini Project | ⏳ |
 
-## Week 2-4: NumPy & Linear Algebra (Days 8-30)
+## Month 1: Foundations (Days 8-30)
 
 | Week | Days | Focus | Status |
 |------|------|-------|--------|
-| 2 | 8-14 | Matrix Decompositions | ⏳ |
-| 3 | 15-21 | Optimization Basics | ⏳ |
-| 4 | 22-30 | Statistics & Probability | ⏳ |
+| 2 | 8-14 | Linear Algebra (vectors, matrices, eigenvalues) | ⏳ |
+| 3 | 15-21 | Calculus (derivatives, chain rule, gradients) | ⏳ |
+| 4 | 22-30 | Probability, Statistics & PyTorch Tensors | ⏳ |
 
-## Week 5-8: Deep Learning Basics (Days 31-60)
-
-| Week | Days | Focus | Status |
-|------|------|-------|--------|
-| 5 | 31-37 | Neural Network Fundamentals | ⏳ |
-| 6 | 38-44 | Backpropagation from Scratch | ⏳ |
-| 7 | 45-51 | PyTorch Introduction | ⏳ |
-| 8 | 52-60 | CNNs & Computer Vision | ⏳ |
-
-## Week 9-12: CUDA Programming (Days 61-90)
+## Month 2: Core ML/DL (Days 31-60)
 
 | Week | Days | Focus | Status |
 |------|------|-------|--------|
-| 9 | 61-67 | GPU Architecture & CUDA Basics | ⏳ |
-| 10 | 68-74 | Memory Management & Optimization | ⏳ |
-| 11 | 75-81 | Parallel Algorithms | ⏳ |
-| 12 | 82-90 | Custom CUDA Kernels | ⏳ |
+| 5 | 31-37 | Neural Networks & Backpropagation by Hand | ⏳ |
+| 6 | 38-44 | CNNs: Convolutions, Pooling, Implementation | ⏳ |
+| 7 | 45-51 | RNNs: LSTMs, GRUs, Sequence Modeling | ⏳ |
+| 8 | 52-60 | Optimizers (SGD, Adam, Learning Rate Schedules) | ⏳ |
 
-## Week 13-20: LLM Engineering (Days 91-150)
-
-| Week | Days | Focus | Status |
-|------|------|-------|--------|
-| 13-14 | 91-105 | Transformers Architecture | ⏳ |
-| 15-16 | 106-120 | Attention Mechanisms | ⏳ |
-| 17-18 | 121-135 | Fine-tuning & PEFT | ⏳ |
-| 19-20 | 136-150 | LLM Applications | ⏳ |
-
-## Week 21-26: Advanced Topics (Days 151-180)
+## Month 3: CUDA + C++ (Days 61-90)
 
 | Week | Days | Focus | Status |
 |------|------|-------|--------|
-| 21-22 | 151-165 | Model Optimization & Quantization | ⏳ |
-| 23-24 | 166-175 | Deployment & Serving | ⏳ |
-| 25-26 | 176-180 | Capstone Project | ⏳ |
+| 9 | 61-67 | CUDA Basics (threads, blocks, grids) | ⏳ |
+| 10 | 68-74 | Shared Memory & Memory Coalescing | ⏳ |
+| 11 | 75-81 | C++ for ML & Triton Introduction | ⏳ |
+| 12 | 82-90 | Custom Kernels: Matrix Multiply, Reductions | ⏳ |
+
+## Month 4: Transformers + LLMs (Days 91-120)
+
+| Week | Days | Focus | Status |
+|------|------|-------|--------|
+| 13 | 91-97 | Attention Mechanism from Scratch | ⏳ |
+| 14 | 98-104 | Positional Encodings & Multi-Head Attention | ⏳ |
+| 15 | 105-111 | Build Tiny Transformer (Encoder-Decoder) | ⏳ |
+| 16 | 112-120 | GPT Architecture & Language Modeling | ⏳ |
+
+## Month 5: Systems + Optimization (Days 121-150)
+
+| Week | Days | Focus | Status |
+|------|------|-------|--------|
+| 17 | 121-127 | Multi-GPU Training (DDP, FSDP) | ⏳ |
+| 18 | 128-134 | Quantization (QLoRA, INT8, FP16) | ⏳ |
+| 19 | 135-141 | Profiling & Memory Optimization | ⏳ |
+| 20 | 142-150 | Flash Attention & Kernel Fusion | ⏳ |
+
+## Month 6: Production & Research (Days 151-180)
+
+| Week | Days | Focus | Status |
+|------|------|-------|--------|
+| 21 | 151-157 | Study Unsloth Codebase | ⏳ |
+| 22 | 158-164 | Contribute to TRL/vLLM | ⏳ |
+| 23 | 165-171 | Fine-Tuning Pipelines on Cloud GPUs | ⏳ |
+| 24 | 172-178 | Build Portfolio Project | ⏳ |
+| 25-26 | 179-180 | Final Review & Next Steps | ⏳ |
 
 ---
 
@@ -97,14 +108,14 @@ Week 2:  [░░░░░░░░░░░░░░░░░░░░] 0% (0/7)
 ...
 ```
 
-## 🎯 Milestones
+## 🎯 Milestones (Toward Unsloth-Level Skills)
 
-- [ ] **Day 30**: Complete foundations (NumPy, Linear Algebra)
-- [ ] **Day 60**: First neural network from scratch
-- [ ] **Day 90**: First custom CUDA kernel
-- [ ] **Day 120**: Implement attention mechanism
-- [ ] **Day 150**: Fine-tune a transformer model
-- [ ] **Day 180**: Deploy a production ML system
+- [ ] **Day 30**: Master foundations (NumPy, PyTorch, linear algebra, calculus)
+- [ ] **Day 60**: Implement backprop by hand + train CNN/RNN from scratch
+- [ ] **Day 90**: Write custom CUDA kernels (matrix multiply, reductions)
+- [ ] **Day 120**: Build tiny Transformer from scratch with attention
+- [ ] **Day 150**: Multi-GPU training + quantization (QLoRA implementation)
+- [ ] **Day 180**: Contribute to Unsloth/TRL/vLLM + run fine-tuning on cloud
 
 ## 📚 Topics Covered
 

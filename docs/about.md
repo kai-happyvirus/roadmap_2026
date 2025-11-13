@@ -13,14 +13,29 @@ I'm documenting my 6-month journey to master Machine Learning, CUDA programming,
 1. **Personal accountability** - Track my daily progress and learnings
 2. **Validate AI-suggested roadmaps** - Prove that structured learning paths work
 
-## 🎯 The Challenge
+## 🎯 The Challenge: Unsloth-Level Skills in 6 Months
 
-**180 days** of focused learning covering:
-- Python numerical computing (NumPy, linear algebra)
-- Deep learning fundamentals (neural networks, backpropagation)
-- GPU programming (CUDA C/C++, memory optimization)
-- Large Language Models (Transformers, attention mechanisms)
-- Advanced topics (model optimization, deployment)
+**180 days** of intensive learning to reach production-level ML/CUDA engineering skills:
+
+### Month 1: Foundations (Days 1-30)
+Master Python, NumPy, linear algebra, calculus, probability, PyTorch tensors, and autograd.
+
+### Month 2: Core ML/DL (Days 31-60)
+Build and train CNNs and RNNs. Implement backpropagation by hand. Deep dive into optimizers.
+
+### Month 3: CUDA + C++ (Days 61-90)
+Learn CUDA fundamentals (threads, blocks, shared memory). Write custom kernels in C++ and Triton.
+
+### Month 4: Transformers + LLMs (Days 91-120)
+Implement attention mechanisms, positional encodings, and build a Transformer from scratch.
+
+### Month 5: Systems + Optimization (Days 121-150)
+Multi-GPU training (DDP, FSDP), quantization techniques (QLoRA), profiling, and memory optimization.
+
+### Month 6: Production & Research (Days 151-180)
+Contribute to open-source projects (Unsloth, TRL, vLLM). Run fine-tuning pipelines on rented GPUs.
+
+**Target**: Build skills to contribute meaningfully to cutting-edge LLM optimization frameworks
 
 ## 📚 Learning Philosophy
 

@@ -35,14 +35,18 @@ Each day includes:
 - **Cloud**: Google Colab (GPU access)
 - **Tools**: Jupyter, VS Code, Git
 
-## 🎓 Learning Tracks
+## 🎓 6-Month Master Plan (Toward Unsloth-Level Skills)
 
-This roadmap covers:
-- ✅ **Foundations**: NumPy, linear algebra, calculus review
-- 🔄 **Deep Learning**: Neural networks, backpropagation, optimization
-- ⏳ **CUDA Programming**: GPU kernels, memory optimization, parallel computing
-- ⏳ **LLM Engineering**: Transformers, attention mechanisms, fine-tuning
-- ⏳ **Advanced Topics**: Model optimization, deployment, scaling
+| Month | Days | Focus | Key Goals |
+|-------|------|-------|-----------|
+| **1** | 1-30 | **Foundations** | Master Python, NumPy, linear algebra, calculus, probability, PyTorch tensors, autograd |
+| **2** | 31-60 | **Core ML/DL** | Build and train CNNs, RNNs; implement backprop by hand; understand optimizers |
+| **3** | 61-90 | **CUDA + C++** | Learn CUDA fundamentals (threads, blocks, shared memory); write kernels in C++/Triton |
+| **4** | 91-120 | **Transformers + LLMs** | Implement attention, positional encodings, and tiny Transformer from scratch |
+| **5** | 121-150 | **Systems + Optimization** | Multi-GPU (DDP, FSDP), quantization (QLoRA), profiling, memory optimization |
+| **6** | 151-180 | **Production & Research** | Contribute to open-source (Unsloth, TRL, vLLM); run fine-tuning pipelines on rented GPUs |
+
+**Ultimate Goal**: Build production-level skills to contribute to cutting-edge LLM optimization frameworks like [Unsloth](https://github.com/unslothai/unsloth)
 
 ## 📈 Progress Tracking
 
@@ -70,22 +74,33 @@ This roadmap covers:
 
 ### Overview Table
 
-| Week | Days | Focus Area | Status |
-|------|------|------------|--------|
-| 1 | 1-7 | Environment & Python Fundamentals | 🔄 In Progress (1/7) |
-| 2-4 | 8-30 | NumPy & Linear Algebra | ⏳ Planned |
-| 5-8 | 31-60 | Deep Learning Basics | ⏳ Planned |
-| 9-12 | 61-90 | CUDA Programming | ⏳ Planned |
-| 13-20 | 91-150 | LLM Engineering | ⏳ Planned |
-| 21-26 | 151-180 | Advanced Topics & Projects | ⏳ Planned |
+| Month | Days | Focus Area | Status |
+|-------|------|------------|--------|
+| 1 | 1-30 | Foundations (Python, NumPy, Math, PyTorch) | 🔄 In Progress (1/30) |
+| 2 | 31-60 | Core ML/DL (CNNs, RNNs, Backprop) | ⏳ Planned |
+| 3 | 61-90 | CUDA + C++ (Kernels, Memory, Triton) | ⏳ Planned |
+| 4 | 91-120 | Transformers + LLMs (Attention, GPT) | ⏳ Planned |
+| 5 | 121-150 | Systems + Optimization (Multi-GPU, QLoRA) | ⏳ Planned |
+| 6 | 151-180 | Production & Research (Unsloth, TRL, vLLM) | ⏳ Planned |
 
-## 🌐 Future: GitHub Pages
+## 🌐 GitHub Pages Blog
 
-Plans to build a public website showcasing:
-- Daily progress visualization
-- Code examples and explanations
-- Learning insights and reflections
-- Roadmap feasibility analysis
+**Live Site**: [https://happyvirus.github.io/roadmap_2026](https://happyvirus.github.io/roadmap_2026)
+
+A blog-style website documenting the learning journey with:
+- **Daily learning logs** - Reflections, insights, and "aha!" moments
+- **Progress tracker** - Visual overview of completed days and milestones
+- **Code examples** - Syntax-highlighted snippets with explanations
+- **Topics covered** - Searchable archive of concepts and techniques
+
+### Setting Up GitHub Pages
+
+1. Push the `docs/` folder to GitHub
+2. Go to **Repository Settings** → **Pages**
+3. Set **Source** to `main` branch, `/docs` folder
+4. Site will be live at `https://happyvirus.github.io/roadmap_2026`
+
+The site uses Jekyll (GitHub Pages default) with the Minima theme for simplicity and speed.
 
 ## 📝 License
 

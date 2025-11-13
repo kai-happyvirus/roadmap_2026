@@ -20,14 +20,18 @@ I'm embarking on a **180-day intensive learning track** to master Machine Learni
 - **Current Focus**: Environment setup & NumPy fundamentals
 - **Streak**: 1 day 🔥
 
-## 🎓 Learning Tracks
+## 🎓 6-Month Master Plan (Toward Unsloth-Level Skill)
 
-This roadmap covers:
-- ✅ **Foundations**: NumPy, linear algebra, calculus review (Days 1-30)
-- 🔄 **Deep Learning**: Neural networks, backpropagation, optimization (Days 31-60)
-- ⏳ **CUDA Programming**: GPU kernels, memory optimization (Days 61-90)
-- ⏳ **LLM Engineering**: Transformers, attention mechanisms (Days 91-150)
-- ⏳ **Advanced Topics**: Model optimization, deployment (Days 151-180)
+| Month | Focus | Key Goals |
+|-------|-------|-----------|
+| **1** (Days 1-30) | **Foundations** | Master Python, NumPy, linear algebra, calculus, probability, PyTorch tensors, autograd |
+| **2** (Days 31-60) | **Core ML/DL** | Build and train CNNs, RNNs; implement backprop by hand; understand optimizers |
+| **3** (Days 61-90) | **CUDA + C++** | Learn CUDA fundamentals (threads, blocks, shared memory); write kernels in C++/Triton |
+| **4** (Days 91-120) | **Transformers + LLMs** | Implement attention, positional encodings, and tiny Transformer from scratch |
+| **5** (Days 121-150) | **Systems + Optimization** | Multi-GPU (DDP, FSDP), quantization (QLoRA), profiling, memory optimization |
+| **6** (Days 151-180) | **Production & Research** | Contribute to open-source (Unsloth, TRL, vLLM); run fine-tuning pipelines on rented GPUs |
+
+**Goal**: Build skills to contribute to cutting-edge LLM optimization projects like [Unsloth](https://github.com/unslothai/unsloth)
 
 ## 📝 Recent Posts
 
