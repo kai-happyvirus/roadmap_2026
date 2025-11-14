@@ -12,14 +12,14 @@
 
 - **Duration**: 180 days (6 months)
 - **Start Date**: Day 1 - Environment Setup & NumPy Fundamentals
-- **Current Progress**: Day 1 / 180 ✅
+- **Current Progress**: Day 2 / 180 ✅
 
 ## 📂 Structure
 
 ```
 Tasks/
 ├── Day1/    # ✅ Environment setup, NumPy basics, Colab GPU verification
-├── Day2/    # [Coming soon]
+├── Day2/    # ✅ Linear algebra fundamentals, matrix operations, norms
 └── ...
 ```
 
@@ -67,7 +67,23 @@ Each day includes:
 - Homogeneous arrays enable fast mathematical operations
 - Foundation for future CUDA parallel computing
 
-#### Day 2: [Coming soon]
+#### Day 2: Core Linear Algebra for ML + NumPy Deep Dive ✅
+- [x] Watch GPU fundamentals video (NVIDIA)
+- [x] Complete NumPy Quickstart tutorial
+- [x] Study linear algebra essentials (vectors, matrices, dot products)
+- [x] Implement matrix operations in NumPy
+- [x] Practice dot products, matrix multiplication, transpose
+- [x] Understand norms (L1, L2) and orthogonality
+- [x] Create comprehensive learning notebook
+
+**Key Learnings:**
+- Matrix multiplication rules: inner dimensions must match
+- Dot product measures vector alignment (critical for attention!)
+- L1 vs L2 norms: Manhattan vs Euclidean distance
+- Transpose enables dimension matching in backpropagation
+- Understanding how operations parallelize on GPUs
+
+#### Day 3: [Coming soon]
 - [ ] Deep dive into linear algebra
 - [ ] Vectors, matrix multiplication, basis, rank
 - [ ] Start preparing for PyTorch tensor fundamentals
@@ -76,7 +92,7 @@ Each day includes:
 
 | Month | Days | Focus Area | Status |
 |-------|------|------------|--------|
-| 1 | 1-30 | Foundations (Python, NumPy, Math, PyTorch) | 🔄 In Progress (1/30) |
+| 1 | 1-30 | Foundations (Python, NumPy, Math, PyTorch) | 🔄 In Progress (2/30) |
 | 2 | 31-60 | Core ML/DL (CNNs, RNNs, Backprop) | ⏳ Planned |
 | 3 | 61-90 | CUDA + C++ (Kernels, Memory, Triton) | ⏳ Planned |
 | 4 | 91-120 | Transformers + LLMs (Attention, GPT) | ⏳ Planned |

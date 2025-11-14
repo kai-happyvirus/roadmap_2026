@@ -10,19 +10,19 @@ permalink: /progress/
   <h2>Current Status</h2>
   <div class="stats">
     <div class="stat-box">
-      <span class="stat-number">1</span>
+      <span class="stat-number">2</span>
       <span class="stat-label">Days Completed</span>
     </div>
     <div class="stat-box">
-      <span class="stat-number">0.6%</span>
+      <span class="stat-number">1.1%</span>
       <span class="stat-label">Overall Progress</span>
     </div>
     <div class="stat-box">
-      <span class="stat-number">179</span>
+      <span class="stat-number">178</span>
       <span class="stat-label">Days Remaining</span>
     </div>
     <div class="stat-box">
-      <span class="stat-number">1</span>
+      <span class="stat-number">2</span>
       <span class="stat-label">Day Streak 🔥</span>
     </div>
   </div>
@@ -35,7 +35,7 @@ permalink: /progress/
 | Day | Date | Topic | Status |
 |-----|------|-------|--------|
 | 1 | Nov 13 | [Prepare, Orient, Build Core Tools]({% post_url 2025-11-13-day-1-prepare-orient-build-tools %}) | ✅ |
-| 2 | Nov 14 | Linear Algebra Deep Dive | ⏳ |
+| 2 | Nov 14 | [Linear Algebra + NumPy Deep Dive]({% post_url 2025-11-14-day-2-linear-algebra-numpy-deep-dive %}) | ✅ |
 | 3 | Nov 15 | Vector Operations & Matrix Multiplication | ⏳ |
 | 4 | Nov 16 | NumPy Broadcasting & Advanced Indexing | ⏳ |
 | 5 | Nov 17 | Eigenvalues & Eigenvectors | ⏳ |
@@ -101,11 +101,10 @@ permalink: /progress/
 ## 📈 Progress Visualization
 
 ```
-Progress Bar: [█░░░░░░░░░░░░░░░░░░░] 0.6% (1/180)
+Progress Bar: [█░░░░░░░░░░░░░░░░░░░] 1.1% (2/180)
 
-Week 1:  [██████████████░░░░░░] 14% (1/7)
-Week 2:  [░░░░░░░░░░░░░░░░░░░░] 0% (0/7)
-...
+Week 1:  [████████████████████████████░░░░░░░░░░░] 29% (2/7)
+Month 1: [██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 7% (2/30)
 ```
 
 ## 🎯 Milestones (Toward Unsloth-Level Skills)
@@ -119,17 +118,22 @@ Week 2:  [░░░░░░░░░░░░░░░░░░░░] 0% (0/7)
 
 ## 📚 Topics Covered
 
-### Completed (1)
+### Completed (8)
 - ✅ Environment setup
-- ✅ NumPy basics
-- ✅ Matrix operations
-- ✅ Type systems (homogeneous arrays)
-- ✅ Linear algebra foundations
+- ✅ NumPy basics (arrays, matrices, operations)
+- ✅ Type systems (homogeneous arrays, type promotion)
+- ✅ Linear algebra foundations (vectors, matrices)
+- ✅ Matrix multiplication and dimension matching
+- ✅ Dot products and orthogonality
+- ✅ Transpose operations
+- ✅ Vector norms (L1, L2)
 
 ### In Progress (0)
 
 ### Upcoming
-- Linear algebra (vectors, basis, rank)
+- Broadcasting rules in NumPy
+- Advanced indexing and slicing
+- Eigenvalues and eigenvectors
 - PyTorch tensors
 - GPU programming
 - Neural networks
@@ -137,7 +141,7 @@ Week 2:  [░░░░░░░░░░░░░░░░░░░░] 0% (0/7)
 
 ---
 
-**Last Updated**: November 13, 2025 - Day 1 completed
+**Last Updated**: November 14, 2025 - Day 2 completed
 
 <style>
 .progress-overview {

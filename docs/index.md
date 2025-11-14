@@ -15,10 +15,10 @@ I'm embarking on a **180-day intensive learning track** to master Machine Learni
 
 ## 📊 Current Status
 
-- **Day**: 1 / 180
-- **Progress**: 0.6%
-- **Current Focus**: Environment setup & NumPy fundamentals
-- **Streak**: 1 day 🔥
+- **Day**: 2 / 180
+- **Progress**: 1.1%
+- **Current Focus**: Linear algebra fundamentals & NumPy mastery
+- **Streak**: 2 days 🔥
 
 ## 🎓 6-Month Master Plan (Toward Unsloth-Level Skill)
 
