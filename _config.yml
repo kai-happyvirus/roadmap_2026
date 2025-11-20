@@ -1,0 +1,19 @@
+# GitHub Pages Configuration
+title: ML/CUDA/LLM Learning Journey - 2026
+description: 180-day intensive roadmap from foundations to advanced ML/CUDA/LLM engineering
+theme: jekyll-theme-cayman
+
+# Optional: Add your GitHub username
+github_username: kaicho
+
+# Build settings
+markdown: kramdown
+
+# Include/exclude files
+include:
+  - README.md
+  - docs/
+
+exclude:
+  - ml_journey/env/
+  - .gitignore
