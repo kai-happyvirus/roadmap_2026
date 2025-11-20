@@ -4,7 +4,9 @@ description: 180-day intensive roadmap from foundations to advanced ML/CUDA/LLM 
 theme: jekyll-theme-cayman
 
 # Optional: Add your GitHub username
-github_username: kaicho
+github_username: kai-happyvirus
+url: https://kai-happyvirus.github.io
+baseurl: /roadmap_2026
 
 # Build settings
 markdown: kramdown
